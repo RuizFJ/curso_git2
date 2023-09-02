@@ -17,12 +17,27 @@ namespace Prueba_de_Message
             InitializeComponent();
         }
         Metodo obj = new Metodo();
+       
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            obj.numero1 = Convert.ToInt32(txtNumero1.Text);
-            obj.numero2 = Convert.ToInt32(txtNumero2.Text);
-            txtResultado.Text = obj.Calcular().ToString();
-            //Hola prueba de git
+           
+            
+            calcular();
+           
+        }
+
+        public void calcular()
+        {
+            if (!String.IsNullOrWhiteSpace(txtNumero1.Text) && !String.IsNullOrWhiteSpace(txtNumero1.Text))
+            {
+                obj.numero1 = Convert.ToInt32(txtNumero1.Text);
+                obj.numero2 = Convert.ToInt32(txtNumero2.Text);
+                txtResultado.Text = obj.Calcular().ToString();
+            } else
+            {
+                MessageBox.Show("Por favor, llene todas las casillas", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+           
         }
     }
 }
