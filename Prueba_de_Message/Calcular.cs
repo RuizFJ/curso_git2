@@ -22,6 +22,7 @@ namespace Prueba_de_Message
             obj.numero1 = Convert.ToInt32(txtNumero1.Text);
             obj.numero2 = Convert.ToInt32(txtNumero2.Text);
             txtResultado.Text = obj.Calcular().ToString();
+            //Hola prueba de git
         }
     }
 }
