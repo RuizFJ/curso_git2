@@ -1,0 +1,17 @@
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\bin\Debug\net6.0-windows\Prueba_de_Message.exe
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\bin\Debug\net6.0-windows\Prueba_de_Message.deps.json
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\bin\Debug\net6.0-windows\Prueba_de_Message.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\bin\Debug\net6.0-windows\Prueba_de_Message.dll
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\bin\Debug\net6.0-windows\Prueba_de_Message.pdb
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.Calcular.resources
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.dll
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\refint\Prueba_de_Message.dll
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.pdb
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\Prueba_de_Message.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\Practica_GitandC#\Prueba_de_Message\obj\Debug\net6.0-windows\ref\Prueba_de_Message.dll

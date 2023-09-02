@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prueba_de_Message/1.0.0": {
+        "runtime": {
+          "Prueba_de_Message.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba_de_Message/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
